@@ -6,7 +6,7 @@ A Java console application that connects to a PostgreSQL database with JDBC and 
 
 ## Video Demonstration
 
-▶️ **[Watch the demo video](PASTE_YOUR_VIDEO_LINK_HERE)**
+▶️ **[Watch the demo video] https://youtu.be/1jx9NEGNneg
 
 ## Repository Structure
 
